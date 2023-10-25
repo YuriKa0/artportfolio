@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/drowingPortfolio/static/css/main.ecfe8220.css",
+    "main.js": "/drowingPortfolio/static/js/main.28ae44df.js",
+    "static/js/787.28cb0dcd.chunk.js": "/drowingPortfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/blog.png": "/drowingPortfolio/static/media/blog.5d71373e3a1a84385734.png",
+    "static/media/dillyhub.svg": "/drowingPortfolio/static/media/dillyhub.9b1931808917f4e9ec03.svg",
+    "index.html": "/drowingPortfolio/index.html",
+    "main.ecfe8220.css.map": "/drowingPortfolio/static/css/main.ecfe8220.css.map",
+    "main.28ae44df.js.map": "/drowingPortfolio/static/js/main.28ae44df.js.map",
+    "787.28cb0dcd.chunk.js.map": "/drowingPortfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecfe8220.css",
+    "static/js/main.28ae44df.js"
+  ]
+}
